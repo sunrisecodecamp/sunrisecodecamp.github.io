@@ -123,3 +123,12 @@ a:hover {
 	font-weight: bold;
 	text-decoration: underline;
 }
+
+.day1 {
+	height: 80px;
+	width: 60px;
+	background-color: white;
+	margin-left: 42%;
+	color: black;
+	font-weight: bold;
+}
