@@ -132,3 +132,10 @@ a:hover {
 	color: black;
 	font-weight: bold;
 }
+
+.nextsteps {
+	background-color: green;
+	padding: 40px;
+	color: white;
+	font-size: 20px;
+}
