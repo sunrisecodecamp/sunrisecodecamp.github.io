@@ -21,7 +21,7 @@ about setting up virtual machines, which was a huge hassle when I volunteered
 at similar events. Instead all we needed was 10 minutes to help people sign up
 for GitHub, Heroku, CodePen and Nitrous accounts and everyone was good to go.
 
-[Rachel teaches the students ruby using
+![Rachel teaches the students ruby using
 Nitrous.io](http://i.imgur.com/nkFN12B.jpg)
 
 I really enjoyed the chance to give back to my community. It was uplifting to
